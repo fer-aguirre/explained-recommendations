@@ -11,6 +11,8 @@ pathlib = "*"
 pandas = "*"
 numpy = "*"
 requests = "*"
+explained-recommendations = {editable = true, path = "."}
+steamship = "*"
 
 [dev-packages]
 

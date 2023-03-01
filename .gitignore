@@ -131,3 +131,7 @@ cython_debug/
 
 # Directories
 data/
+
+# Git secret
+.gitsecret/keys/random_seed
+.steamship.json
