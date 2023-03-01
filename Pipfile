@@ -13,6 +13,7 @@ numpy = "*"
 requests = "*"
 explained-recommendations = {editable = true, path = "."}
 steamship = "*"
+termcolor = "*"
 
 [dev-packages]
 
