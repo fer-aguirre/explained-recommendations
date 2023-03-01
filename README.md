@@ -1,5 +1,5 @@
-# Explained Recommendations
-A repository for building a system recommendation explained using generative AI for prompt engineering, text embeddings and vector search. This model will be deployed with Steamship packages and applied to Writing Atlas content.
+# Explained Recommendations 📑
+A repository for building a system recommendation explained using generative AI for prompt engineering, text embeddings and vector search. This model will be deployed with [Steamship](https://www.steamship.com/) packages and applied to [Writing Atlas](https://writingatlas.com/) content.
 
 Created by: Fer Aguirre
 
